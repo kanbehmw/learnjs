@@ -2,3 +2,5 @@
 dist
 working
 master
+credentials.csv
+conf/s3/*.txt
